@@ -1,2 +1,3 @@
 # Testrepo1
-suuuuuuiiiii
+using github commands for first time 
+testing repository
